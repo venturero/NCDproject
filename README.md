@@ -40,7 +40,7 @@ It must be like that :
 "near call $CONTRACT getCar '{"brand":"####"}' --accountId ####.testnet --amount #"
 
 For example : 
-"near call $CONTRACT getCar '{"brand":"AUDI"}' --accountId mycodebag.testnet --amount 2"
+"near call $CONTRACT getCar '{"brand":"AUDI"}' --accountId semi.testnet --amount 2"
 
 or RUN
 
