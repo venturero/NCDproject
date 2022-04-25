@@ -50,6 +50,7 @@ Finally, selected player adds the storage.
 
 You can see your selected random player on terminal and storage using from https://github.com/near-examples/near-account-utils repostories.
 
+<p align='center'><a href="https://www.loom.com/share/49b3ae2260ff4d22a36bd2bf85c5907c">Loom videeo of usage</a></p>
 <p align='center'><a href="https://github.com/orgs/Learn-NEAR/repositories?q=l1&type=all&language=typescript&sort=">Click for more example</a></p>
 
 
